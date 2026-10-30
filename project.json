@@ -1,0 +1,22 @@
+{
+  "name": "atmosfar-exploration-toolkit",
+  "displayName": "ATMOSFAR Exploration Toolkit",
+  "programType": "exploration-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Journey notes",
+    "Equipment groups",
+    "Session records"
+  ],
+  "topics": [
+    "atmosfar-exploration-toolkit",
+    "atmosfar-tools",
+    "atmosfar-menu",
+    "atmosfar-settings",
+    "atmosfar-configs",
+    "atmosfar-journey-notes",
+    "atmosfar-equipment-groups"
+  ]
+}
